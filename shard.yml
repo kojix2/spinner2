@@ -6,7 +6,8 @@ authors:
 
 dependencies:
   term-cursor:
-    github: crystal-term/cursor
+    github: kojix2/cursor2
+    branch: v0.2.0
 
 crystal: ">= 1.0.0"
 
